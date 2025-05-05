@@ -1,1 +1,1 @@
-Creating test script version 1.0
+Creating test script version 2.0
